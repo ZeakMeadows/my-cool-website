@@ -7,7 +7,7 @@
 
 1. [Project Name](#1-project-name)
 2. [Short Description](#2-short-description)
-3. [Table of Contents](#3-table-of-contents)
+3. [Files](#3-files)
 4. [Installation](#4-installation)
 5. [Usage](#5-usage)
 6. [Credits](#6-credits)
@@ -20,7 +20,7 @@ My-Cool-Website
 
 This is a personal website about me.
 
-## 3. Table of Contents
+## 3. Files
 
 - index.html
 - style.css
