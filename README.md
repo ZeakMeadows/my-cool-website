@@ -1,29 +1,44 @@
-# Read Me
-<!-- 
+<div align="center">
+  <h1>My Cool Website</h1>
+  <p>This is a personal website about me.</p>
+</div>
 
-Porject Name:
+## Table of Contents
 
-my-cool-website
+1. [Project Name](#1-project-name)
+2. [Short Description](#2-short-description)
+3. [Table of Contents](#3-table-of-contents)
+4. [Installation](#4-installation)
+5. [Usage](#5-usage)
+6. [Credits](#6-credits)
 
-short description:
+## 1. Project Name
 
-this is a personal website about me.
+My-Cool-Website
 
-Table of contents:
+## 2. Short Description
+
+This is a personal website about me.
+
+## 3. Table of Contents
 
 - index.html
 - style.css
 
-Installation:
+## 4. Installation
 
-simply download and run the folder in your code editor of choice. Make sure the files are all in the same folder before running the python code.
+To view My Cool Website, follow these steps:
 
-Usage:
+1. Clone this repository to your local machine or download the ZIP file.
+2. Ensure you have a web browser installed on your system (e.g., Chrome, Firefox, etc.).
+3. Open the folder containing the project in your preferred code editor.
 
-This website is intended just to be viewed.
+## 5. Usage
 
-Credits:
+This website is intended to be viewed and showcases information about the author.
 
-https://github.com/ZeakMeadows
+To run the website, simply open the `index.html` file in your web browser.
 
--->
+## 6. Credits
+
+Credit for this project goes to [ZeakMeadows](https://github.com/ZeakMeadows).
